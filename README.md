@@ -14,7 +14,7 @@ You can delete this comment once done.
 
 CHANGEME: A few sentences about the dataset and a plot should go here.
 
-![CHANGEME: The alt text of the image.](CHANGEME)
+![CHANGEME: The alt text of the image.](preview.jpg)
 
 | | Summary |
 |--:|:--|
