@@ -21,13 +21,19 @@ CHANGEME: A few sentences about the dataset and a plot should go here.
 | File | `CHANGEME.csv` |
 | Size | CHANGEME Mb |
 | Version | [CHANGEME](https://github.com/fatiando-data/CHANGEME/releases/latest) |
-| DOI | [CHANGEME](https://doi.org/CHANGEME) |
+| DOI | https://doi.org/CHANGEME |
 | License | [CC-BY](https://creativecommons.org/licenses/by/4.0/) |
 | MD5 | `md5:CHANGEME` |
 | SHA256 | `sha256:CHANGEME` |
 | Source | CHANGEME: Citation and/or link to original data source |
 | Original license | CHANGEME: License (with link) of the original source |
 | Processing code | [`prepare.ipynb`](https://nbviewer.org/github/fatiando-data/CHANGEME/blob/main/prepare.ipynb) |
+
+## Changes made
+
+> These are the changes made to the original dataset.
+
+* CHANGEME: List here changes made to the original data.
 
 ## About this repository
 
